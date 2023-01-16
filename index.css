@@ -77,8 +77,6 @@ body
 .placeholderimg
 {
     color:#E5E7EB;
-    padding: 100px 160px 100px 145px;
-    background-color: #6D747D;
 }
 .btn
 {
@@ -107,17 +105,18 @@ body
 
 .flexitems
 {
-    width: 15.5%;
+    width: 25%;
 }
 
 .borderblue
 {
-    padding: 5rem 3rem;
-    border: 4px solid #3882F6;
     margin-bottom: 0.5rem;
     border-radius: 1rem;
 }
-
+.borderblue img
+{
+    border: 5px solid blue;
+}
 .body .flex
 {
     justify-content: center;
